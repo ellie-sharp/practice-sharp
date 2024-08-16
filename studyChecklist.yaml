@@ -1,0 +1,75 @@
+senior c# topics checklist:
+
+language features:
+    -delegates
+    -events
+    -generics
+    -lambda expressions
+    -extension methods
+    -attributes
+
+design patterns:
+    -singleton
+    -factory
+    -observer
+    -strategy
+    -composite
+    -builder
+    -adapter
+    -bridge
+    -template method
+    -command
+    -chain of responsibility
+    -facade
+
+SOLID principles:
+    -single responsibility
+    -open/closed
+    -liskov's substitution
+    -interface segregation
+    -dependency inversion
+
+dependency injection:
+    -Microsoft.Extensions.DependencyInjection
+
+asynchronous programming patterns:
+    -parallel programming
+    -task parallel library (TPL)
+    -async streams
+    -custom async/await patterns
+
+multithreading and concurrency:
+    -threads
+    -tasks
+    -locks
+    -synchronization primitives
+    -parallel programming patterns
+    -writing thread-safe code
+
+secure coding practices:
+    -input validation
+    -parameterized queries
+    -password hashing
+    -authentication and authorization
+    -secure communication
+    -securely store sensitive info
+
+advanced database concepts:
+    -database design
+    -indexing
+    -query optimization
+    -stored procedures
+    -entity framework (object-relational mapping ORM)
+
+software architecture:
+    -mvc
+    -mvvm
+    -hexagonal architecture
+    -domain-driven design
+
+distributed systems:
+    -message queues (rabbitMQ)
+    -distributed caches (redis)
+    -service-oriented architecture (SOA)
+    -microservice architecture
+
